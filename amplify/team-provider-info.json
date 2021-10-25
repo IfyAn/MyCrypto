@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mycrypto-dev-44347-authRole",
+      "UnauthRoleArn": "arn:aws:iam::746018881730:role/amplify-mycrypto-dev-44347-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::746018881730:role/amplify-mycrypto-dev-44347-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mycrypto-dev-44347-deployment",
+      "UnauthRoleName": "amplify-mycrypto-dev-44347-unauthRole",
+      "StackName": "amplify-mycrypto-dev-44347",
+      "StackId": "arn:aws:cloudformation:us-east-1:746018881730:stack/amplify-mycrypto-dev-44347/46d987c0-32ea-11ec-8ef4-0af7097f0509",
+      "AmplifyAppId": "dabu2r26yl1v5"
+    },
+    "categories": {
+      "auth": {
+        "mycryptobc4a31aa": {}
+      },
+      "function": {
+        "mycryptobc4a31aaPostConfirmation": {
+          "deploymentBucketName": "amplify-mycrypto-dev-44347-deployment",
+          "s3Key": "amplify-builds/mycryptobc4a31aaPostConfirmation-3932634249624751637a-build.zip"
+        }
+      }
+    }
+  }
+}
